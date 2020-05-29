@@ -5,8 +5,8 @@
 
 **[点击下载OrangeJs（橘衫の脚本）APK（1.0）](https://www.lanzous.com/i8gs5li)**
 
-# 脚本总数：15
-## 当前可用：6（部分脚本正在修复中……）
+# 脚本总数：16
+## 当前可用：7（部分脚本正在修复中……）
 
 ## 【脚本】[自动集福气（淘宝脚本）](https://github.com/Orange-shirt/OrangeJs/blob/master/%E3%80%90Orange%20Js%20%E6%A9%98%E8%A1%AB%E3%81%AE%E8%84%9A%E6%9C%AC%E3%80%91%E8%87%AA%E5%8A%A8%E9%9B%86%E7%A6%8F%E6%B0%94)
 ![image](http://code.aliyun.com/orange_shirt/OrangeJs/raw/master/Script_author.png)
@@ -92,6 +92,17 @@
 **• 支持自动打开京东app并跳转活动页面完成各项任务并支持识别当前任务数量，任务标题，任务完成状态，蛋糕层数，金币数等多项任务数据**
 
 **• 支持自动叠蛋糕及各项任务，并支持识别错误界面自动跳转，防误触，定时/计时运行等功能**
+
+**• 支持显示一目了然的“悬浮日志”与“吐司（Toast）”切换，脚本的各项操作尽在掌握**
+
+## 【脚本】[喵币++（淘宝脚本）](https://github.com/Orange-shirt/OrangeJs/blob/master/%E3%80%90Orange%20Js%20%E6%A9%98%E8%A1%AB%E3%81%AE%E8%84%9A%E6%9C%AC%E3%80%91%E5%96%B5%E5%B8%81%2B%2B%EF%BC%88%E6%B7%98%E5%AE%9D%E8%84%9A%E6%9C%AC%EF%BC%89)
+![image](http://code.aliyun.com/orange_shirt/OrangeJs/raw/master/Script_author.png)
+
+**• 支持安卓7及以上系统全分辨率的设备无需ROOT权限运行！**
+
+**• 支持自动打开淘宝app并跳转活动页面完成各项任务并支持识别当前任务数量，任务标题，任务完成状态**
+
+**• 支持识别错误界面自动跳转，防误触，定时/计时运行等功能**
 
 **• 支持显示一目了然的“悬浮日志”与“吐司（Toast）”切换，脚本的各项操作尽在掌握**
 
